@@ -7,11 +7,10 @@ ul {
     list-style: none;
 }
 body {
-    background-image: url(./imagens/fundo.jpg);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
-    background-color: #121214;
+    background: linear-gradient(#121212,#151515,#0e3442);
 }
 body * {
     font-family: 'inter', sans-serif;
